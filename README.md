@@ -3,11 +3,8 @@
 <a href="https://twitter.com/Keshavsingh4522" target="_blank" rel="nofollow"><img align="right" alt="Keshav's Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" /></a><a href="https://www.linkedin.com/in/keshavsingh4522" target="_blank" rel="nofollow"><img align="right" alt="Keshav's Linkdein" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a><a href="https://www.instagram.com/keshavsingh3197" target="_blank" rel="nofollow"><img align="right" alt="Keshav's Insta" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" /></a>
 </div>
 
-<img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='left'>
+<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.newgoldenroses.com%2Flicense&psig=AOvVaw1Cvg9ZBAW320pvXiGL-ECF&ust=1683963349919000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOjnrrui7_4CFQAAAAAdAAAAABAE' align='left'>
 
-### Hi  👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/keshavsingh4522)
-- :school: I'm [Keshav Singh]([https://keshavsingh4522.github.io/](https://preview.webflow.com/preview/my-portofolio-b842c4?utm_medium=preview_link&utm_source=dashboard&utm_content=my-portofolio-b842c4&preview=d06063e8bcb187459db2597415440ecf&workflow=preview)), have pursued B.Tech(CSE) from <a href="https://jecrcfoundation.com/">@JECRC  </a>
-- :neutral_face: I have a **love/hate** relationship with **Programming**
 - 🌱 I’m currently Working with tech Microservice,**AWS,.Net Core**
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭
 - 💬 Ask me about anything, I am happy to help
