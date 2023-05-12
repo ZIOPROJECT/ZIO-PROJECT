@@ -12,7 +12,7 @@
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: **Coder, Leader** and **Kind Hearted** 
-- 🌐 Visit my [porfolio website]([(https://preview.webflow.com/preview/my-portofolio-b842c4?utm_medium=preview_link&utm_source=dashboard&utm_content=my-portofolio-b842c4&preview=d06063e8bcb187459db2597415440ecf&workflow=preview)]) for complete background and contact.
+- 🌐 Visit my [porfolio website]([https://preview.webflow.com/preview/my-portofolio-b842c4?utm_medium=preview_link&utm_source=dashboard&utm_content=my-portofolio-b842c4&preview=d06063e8bcb187459db2597415440ecf&workflow=preview]) for complete background and contact.
 <!-- - ⚡ Languages: **Python3 | SQL | HTML | CSS |** -->
 
 <br />
